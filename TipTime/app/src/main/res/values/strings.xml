@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="regular">Regular (15%)</string>
+    <string name="good">Boa (18%)</string>
+    <string name="amazing">Incrível (20%)</string>
+    <string name="cost">Cost of Service</string>
+    <string name="question">How was the cost?</string>
+    <string name="calculate">Calcular</string>
+    <string name="tip_amount">Tip amount: %s</string>
+</resources>
