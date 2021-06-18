@@ -1,4 +1,11 @@
 package com.example.sentences.model
 
-data class Sentence(val stringResourceID: Int) {
+import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
+
+data class Sentence(
+        @StringRes val stringResourceID: Int,
+        @DrawableRes val imageResourceId: Int
+        ) {
+
 }
